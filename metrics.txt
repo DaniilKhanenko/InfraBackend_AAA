@@ -1,0 +1,7 @@
+Throughput (RPS):       35.90 запросов/сек
+Latency P50 (Медиана):  275.23 мс
+Latency P95:            328.07 мс
+Latency P99:            354.02 мс
+Mean Inference Time:    248.43 мс
+RAM до нагрузки:        755.00 MB
+RAM после нагрузки:     764.16 MB
